@@ -29,7 +29,7 @@
 		"editorGutter.addedBackground": "#a6e22c",
 		"editorGutter.background": "#282923",
 		"editorGutter.deletedBackground": "#f83535",
-		"editorGutter.modifiedBackground": "#e6db74",
+		"editorGutter.modifiedBackground": "#e7db74",
 		"editorHoverWidget.background": "#414339",
 		"editorHoverWidget.border": "#75715e",
 		"editorIndentGuide.activeBackground": "#404040",
@@ -89,7 +89,7 @@
 		"sideBarTitle.foreground": "#18090c",
 		"statusBar.background": "#abb1ba",
 		"statusBar.border": "#abb1ba",
-		"statusBar.debuggingBackground": "#ffe894",
+		"statusBar.debuggingBackground": "#e7db74",
 		"statusBar.foreground": "#404040",
 		"statusBar.noFolderBackground": "#171714",
 		"statusBar.noFolderForeground": "#cfcfc2",
@@ -1129,7 +1129,7 @@
 		{
 			"scope": "entity.name.function.java",
 			"settings": {
-				"foreground": "#A6E22C"
+				"foreground": "#67D8EF"
 			}
 		},
 		{
@@ -1183,7 +1183,8 @@
 		{
 			"scope": "punctuation.definition.heading.markdown",
 			"settings": {
-				"foreground": "#FD9621"
+				"foreground": "#FD9621",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1254,6 +1255,30 @@
 			"settings": {
 				"foreground": "#AC80FF"
 			}
-		}
+		},
+		{
+			"scope": "punctuation.definition.annotation.java",
+			"settings": {
+				"foreground": "#67D8EF"
+			}
+		},
+		{
+			"scope": "source.css",
+			"settings": {
+				"foreground": "#67D8EF"
+			}
+		},
+		{
+			"scope": "entity.name.function.ruby",
+			"settings": {
+				"foreground": "#A6E22C"
+			}
+		},
+		{
+			"scope": "support.function.kernel.ruby",
+			"settings": {
+				"foreground": "#67D8EF"
+			}
+		},
 	]
 }
