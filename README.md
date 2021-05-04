@@ -80,4 +80,5 @@ VS Code documentation on overriding colors (https://code.visualstudio.com/docs/g
     "editor.lineHeight": 18,
     "breadcrumbs.enabled": false
 }
-```#
+```
+# Sublime-Exact-Theme
