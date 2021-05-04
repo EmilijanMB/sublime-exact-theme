@@ -1,0 +1,38 @@
+{
+    "name": "sublime-exact-theme",
+    "displayName": "Sublime Exact Theme",
+    "description": "Sublime Exact Theme! Only Sublime theme using original colors converted from the original HSL format, instead of the VS Code Monokai color scheme used by others",
+    "version": "1.0.0",
+    "publisher": "EmilijanMB",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EmilijanMB/sublime-exact-theme"
+    },
+    "keywords": [
+        "sublime exact theme",
+        "sublime theme",
+        "sublime ",
+        "emilijanmb",
+        "emilijan",
+        "dark theme",
+        "theme",
+        "dark",
+        "sublime dark",
+        "sublime dark theme"
+    ],
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sublime Exact Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sublime Exact Theme-color-theme.json"
+            }
+        ]
+    }
+}
