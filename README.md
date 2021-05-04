@@ -1,34 +1,48 @@
-<p align="center"><img width="800px" src="https://i.ibb.co/3p3t5hr/Code-E2-DQWVz-LUd.png"></p>
+<p align="center"><img width="800px" <a href="https://ibb.co/19phRT7"><img src="https://i.ibb.co/NLkQWKt/Gif.gif" alt="Gif" border="0"></a></p>
 <p align="center">
 
 Sublime theme in Visual Studio Code. Only one colored exactly by converting the HSL files from Sublime
 
 ## Installing information
 
-Theme install
+Theme install [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
 
 ### Installation
 
 Quick Open:
-Windows: Ctrl + P
+<!-- Windows: Ctrl+P
 macOS: ⌘ + P
-Linux: Ctrl + P
+Linux: Ctrl+P -->
 
 Paste the following command and press `Enter`:
 
 ```shell
-ext install sublime-exact-theme
+ext install sublime exact theme
 ```
+
 ...pick the theme
 
 ## Theme activation
 
 Quick Open:
-Windows: Ctrl + Shift + P
+<!-- Windows: Ctrl + Shift + PP
 macOS: Shift + P
-Linux: Ctrl + Shift + P
+Linux: Ctrl + Shift +  -->
 
-Type `theme`, choose `Preferences: Color Theme`, and select Sublime Exact Theme
+Type `theme`, choose `Preferences: Color Theme`, and select one of the Material Theme variants from the list. After activation, the theme will set the correct icon theme based on your active theme variant.
+
+## Accent color
+
+Quick Open:
+<!-- Windows: Ctrl + Shift + P
+macOS: Shift + P
+Linux: Ctrl + Shift + P -->
+
+Type sublime exact theme and choose Sublime Exact Theme: Set accent color, and pick a color from the list
+
+## Override theme colors
+VS Code documentation on overriding colors (https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
+
 ### Overriding the colors
 
 **Editor colors**
@@ -64,8 +78,6 @@ Type `theme`, choose `Preferences: Color Theme`, and select Sublime Exact Theme
     // Changes to like Sublime even more
     "editor.letterSpacing": 0.55,
     "editor.lineHeight": 18,
-    "editor.links": false,
     "breadcrumbs.enabled": false
 }
-```# sublime-exact-theme
-
+```#
