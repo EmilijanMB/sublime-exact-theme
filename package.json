@@ -2,7 +2,7 @@
     "name": "sublime-exact-theme",
     "displayName": "Sublime Exact Theme",
     "description": "Sublime Exact Theme! Only Sublime theme using original colors converted from the original HSL format (instead of Hex)",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "EmilijanMB",
     "repository": {
         "type": "git",
