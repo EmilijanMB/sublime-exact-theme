@@ -1,7 +1,7 @@
 {
     "name": "sublime-exact-theme",
     "displayName": "Sublime Exact Theme",
-    "description": "Sublime Exact Theme! Only Sublime theme using original colors converted from the original HSL format, instead of the VS Code Monokai color scheme",
+    "description": "Sublime Exact Theme! Only Sublime theme using original colors converted from the original HSL format (instead of Hex)",
     "version": "1.0.1",
     "publisher": "EmilijanMB",
     "repository": {
