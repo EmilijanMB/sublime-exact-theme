@@ -2,7 +2,6 @@
 <p align="center">
 
 Sublime theme in Visual Studio Code. Only one colored exactly by converting the HSL files from Sublime
-
 ## Installing information
 
 Theme install
