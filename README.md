@@ -1,4 +1,4 @@
-<p align="center"><img width="800px" <a href="https://ibb.co/19phRT7"><img src="https://i.ibb.co/NLkQWKt/Gif.gif" alt="Gif" border="0"></a></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/3p3t5hr/Code-E2-DQWVz-LUd.png"></p>
 <p align="center">
 
 Sublime theme in Visual Studio Code. Only one colored exactly by converting the HSL files from Sublime
